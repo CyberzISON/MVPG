@@ -10,16 +10,17 @@ MVPG is a tool designed for educational and authorized penetration testing purpo
 1. Make sure you have Python 3.x installed on your system
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mvpg.git 
+   git clone https://github.com/CyberzISON/MVPG.git 
    ```
 3. Navigate to the MVPG directory
-4. Run the installer:
+4. Make a "InstallationFiles" named folder and move the mvpg.py.encrypted file there
+5. Run the installer:
    ```
    python install_mvpg.py
    ```
-5. Follow the installation prompts
-6. Restart your command prompt after installation
-7. Run the tool by typing `mvpg` in your command prompt
+6. Follow the installation prompts
+7. Restart your command prompt after installation
+8. Run the tool by typing `mvpg` in your command prompt
 
 ## Usage
 After installation, you can use MVPG from any command prompt: 
