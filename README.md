@@ -48,6 +48,7 @@ The tool provides various options for payload generation and testing. Always ens
 Souvik Ghosh
 
 NOTE: I AM WORKING ON THE ASCII ART MAIN LOGO. IT'S MESSED UP... IT WILL GET FIXED IN THE NEXT VERSIONS OF THIS 
+NOTE: THIS IS THE FREE EDITION , YOU WONT GET MUCH FEATURES ON THIS BUT BASIC PAYLOAD GENERATION AND RESPONSIVE UI IS INCLUDED... 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details 
